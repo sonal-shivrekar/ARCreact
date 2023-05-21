@@ -9,6 +9,8 @@ function App() {
 
     <p>this is paragraph</p>
 
+    <a href = "https://www.google.com/">google</a>
+
 </div>
 
    /* <div className="App">
