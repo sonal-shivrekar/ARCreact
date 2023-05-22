@@ -11,7 +11,8 @@ function App() {
 
     <p>this is paragraph</p>
 
-    <img src = "sc2.png"></img>
+    
+
 
     <a href = "https://www.google.com/">google</a>
 
