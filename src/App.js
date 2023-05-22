@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Add from './components/Add/Add.js'
 
 function App() {
   return (
@@ -11,25 +12,15 @@ function App() {
 
     <a href = "https://www.google.com/">google</a>
 
-</div>
+<Add a = "2" b = "4"></Add>
 
-   /* <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>*/
-  );
+</div>
+  )
 }
+
+
+   
+
+
 
 export default App;
