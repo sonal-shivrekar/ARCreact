@@ -14,8 +14,6 @@ export const Multi =(props) =>{
 
     return(
 
-        
-
         <div>
             <h1>Multi component</h1>
 
